@@ -1,0 +1,132 @@
+button{
+  padding: 10px;
+  background-color: #ed661f;
+  color: white;
+  font-size: medium;
+
+}
+#image{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#buy{
+  font-size: larger;
+  font-weight: bolder;
+}
+ul{
+  display: inline-flex;
+  margin-left: 15px;
+  list-style-type: none;
+  justify-content: space-between;
+}
+#divone{
+  background-color: rgb(5, 6, 5);
+  color: white;
+  justify-content: space-between;
+}
+#get{
+  background-color: #ed661f;
+  padding: 10px;
+}
+.divwe{
+  background-color: black;
+  text-align: center;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+}
+#wed{
+  font-size: large;
+}
+.spanenter{
+  background-color: white;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  color: black;
+}
+#spanaa{
+  background-color: #ed661f;
+  padding: 5px;
+}
+u{
+  text-decoration-color: #ed661f;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  margin-left: 30px;
+}
+.our{
+  text-align: center;
+}
+body {
+  width: 70%;
+}
+#divmost{
+  margin-left: 30px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  padding: 5px;
+}
+#most{
+  margin-left: 30px;
+}
+.aftermost{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around
+}
+#newest{
+  margin-left: 30px;
+}
+.chicken{
+  font-size: medium;
+  font-weight: bold;
+}
+.ksh{
+  font-size: small;
+  font-weight: 800;
+}
+.see{
+  text-align: right;
+  font-weight: 800;
+  margin-right: 30px;
+  margin-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.arrow{
+  color: #ed661f;
+  font-size: x-large;
+  font-weight: bolder;
+}
+.blank{
+  background-color: rgba(185, 180, 174, 0.702);
+
+}
+.invisible{
+  color: rgba(185, 180, 174, 0.702);
+  text-decoration: aliceblue;
+}
+.what{
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 2px;
+}
+.checked {
+  color: orange;
+}
+#divszaspan{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.divzaspan{
+  border: 10px;
+  box-shadow: #ed661f;
+}

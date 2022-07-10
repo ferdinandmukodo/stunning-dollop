@@ -1,5 +1,5 @@
 button{
-  padding: 10px;
+  padding: 7px;
   background-color: #ed661f;
   color: white;
   font-size: medium;
@@ -70,6 +70,7 @@ li a:hover:not(.active) {
 }
 u{
   text-decoration-color: #ed661f;
+  font-weight: bolder;
 }
 .container{
   display: flex;
@@ -117,8 +118,9 @@ body {
 }
 .arrow{
   color: #ed661f;
-  font-size: x-large;
+  font-size: xx-large;
   font-weight: bolder;
+
 }
 .blank{
   background-color: rgba(185, 180, 174, 0.702);
@@ -140,13 +142,13 @@ body {
 #divszaspan{
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  margin-left: 20px;
-  margin-right: 20px;
+  justify-content: space-around;
+  margin-top: 25px;
 }
-.divzaspan{
+.divzzaspan{
   border: 10px;
-  box-shadow: #ed661f;
+  background-color: rgba(100, 100, 100, 0.03);
+  text-align: center;
 }
 #agri{
   font-size: larger;
@@ -163,6 +165,7 @@ th, td {
   color: white;
   margin-bottom: 30px;
   padding-bottom: 20px;
+  padding-top: 20px;
 }
 #last{
   text-align: center;

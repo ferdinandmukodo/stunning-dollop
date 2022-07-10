@@ -9,9 +9,6 @@ button{
   display: flex;
   flex-direction: row;
   justify-content: center;
-  margin-top: 40px;
-  margin-left: 10px;
-  margin-bottom: 180px;
   justify-content: center;
   }
 #buy{
@@ -194,4 +191,17 @@ th, td {
 }
 #icons{
   margin-left: 20px;
+}
+#background{
+  background-image: url("images/image1.png");
+  margin-bottom: 50px;
+}
+.leone{
+  justify-content: right;
+  text-align: right;
+  margin-left: 300px;
+  background-color: rgba(100, 100, 100, 0.03);
+  font-weight: bold;
+  margin-right: 80px;
+  
 }

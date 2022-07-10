@@ -12,7 +12,7 @@ button{
   justify-content: center;
   }
 #buy{
-  font-size: larger;
+  font-size: x-large;
   font-weight: bolder;
 }
 ul{
@@ -72,7 +72,7 @@ u{
 .container{
   display: flex;
   flex-direction: row;
-  margin-left: 10px;
+  margin-left: 90px;
   margin-top: 90px;
 }
 .our{
@@ -204,10 +204,11 @@ th, td {
   justify-content: right;
   text-align: right;
   margin-left: 300px;
-  background-color: rgba(100, 100, 100, 0.03);
+  background-color: rgba(229, 216, 216, 0.781);
   font-weight: bold;
   margin-right: 80px;
-  margin-top: 100px;
+  margin-top: 60px;
   position: absolute;
+  padding: 30px;
   
 }

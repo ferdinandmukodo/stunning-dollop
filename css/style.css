@@ -34,7 +34,7 @@ li {
   float: left;
 }
 li a:hover:not(.active) {
-  background-color: rgb(43, 227, 89);
+  background-color: rgb(168, 190, 173);
 }
 #divone{
   background-color: black;

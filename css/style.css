@@ -9,25 +9,41 @@ button{
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-bottom: 40px;
 }
 #buy{
   font-size: larger;
   font-weight: bolder;
 }
 ul{
-  display: inline-flex;
-  margin-left: 15px;
   list-style-type: none;
-  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position:;
+  width: 100%;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+}
+li {
+  float: left;
+}
+li a:hover:not(.active) {
+  background-color: red;
 }
 #divone{
-  background-color: rgb(5, 6, 5);
-  color: white;
-  justify-content: space-between;
+  margin: 10px;
 }
 #get{
   background-color: #ed661f;
-  padding: 10px;
 }
 .divwe{
   background-color: black;
@@ -56,7 +72,7 @@ u{
 .container{
   display: flex;
   flex-direction: row;
-  margin-left: 30px;
+  margin-left: 10px;
 }
 .our{
   text-align: center;

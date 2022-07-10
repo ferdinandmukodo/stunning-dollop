@@ -11,7 +11,9 @@ button{
   justify-content: center;
   margin-top: 40px;
   margin-left: 10px;
-  margin-bottom: 40px;
+  margin-bottom: 180px;
+  justify-content: center;
+  background-image: url(images/image1.png);
 }
 #buy{
   font-size: larger;
@@ -22,7 +24,7 @@ ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: black;
   position:;
   width: 100%;
 }
@@ -37,10 +39,10 @@ li {
   float: left;
 }
 li a:hover:not(.active) {
-  background-color: red;
+  background-color: rgb(43, 227, 89);
 }
 #divone{
-  margin: 10px;
+  background-color: black;
 }
 #get{
   background-color: #ed661f;
@@ -145,4 +147,8 @@ body {
 .divzaspan{
   border: 10px;
   box-shadow: #ed661f;
+}
+#agri{
+  font-size: larger;
+  font-weight: 700;
 }

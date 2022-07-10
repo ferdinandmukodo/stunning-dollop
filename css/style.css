@@ -73,12 +73,13 @@ u{
   display: flex;
   flex-direction: row;
   margin-left: 10px;
+  margin-top: 90px;
 }
 .our{
   text-align: center;
 }
 body {
-  width: 70%;
+  width: 80%;
 }
 #divmost{
   margin-left: 30px;
@@ -193,8 +194,11 @@ th, td {
   margin-left: 20px;
 }
 #background{
-  background-image: url("images/image1.png");
-  margin-bottom: 50px;
+  padding-bottom: 80px;
+  background-image: url("../images/image1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .leone{
   justify-content: right;
@@ -203,5 +207,7 @@ th, td {
   background-color: rgba(100, 100, 100, 0.03);
   font-weight: bold;
   margin-right: 80px;
+  margin-top: 100px;
+  position: absolute;
   
 }

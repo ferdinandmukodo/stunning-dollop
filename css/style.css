@@ -13,8 +13,7 @@ button{
   margin-left: 10px;
   margin-bottom: 180px;
   justify-content: center;
-  background-image: url(images/image1.png);
-}
+  }
 #buy{
   font-size: larger;
   font-weight: bolder;
@@ -25,7 +24,6 @@ ul{
   padding: 0;
   overflow: hidden;
   background-color: black;
-  position:;
   width: 100%;
 }
 li a {
